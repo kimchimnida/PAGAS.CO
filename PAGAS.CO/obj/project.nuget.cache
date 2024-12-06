@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eV91Vkd94PY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wayen\\source\\repos\\PAGAS.CO\\PAGAS.CO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wayen\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+Diesel,50.30,875
+Regular,56.10,895
+Premium,55.10,867
